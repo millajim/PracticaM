@@ -1,0 +1,2 @@
+org\apache\struts\register\action\RegisterAction.class
+org\apache\struts\register\model\User.class
